@@ -1,3 +1,5 @@
+向大佬致敬 Thx
+
 # Surge
 Remove weibo ads
 ```properties
